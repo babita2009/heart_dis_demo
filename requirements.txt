@@ -4,4 +4,6 @@ matplotlib
 scikit-learn 
 numpy
 joblib
+altair
+
 streamlit
